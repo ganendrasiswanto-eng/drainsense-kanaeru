@@ -9,5 +9,4 @@ pypdf
 pdfplumber
 python-docx
 openpyxl
-google-genai
 google-generativeai
